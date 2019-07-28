@@ -222,8 +222,8 @@ def main():
     }
     dataset_files = {
         'AVDataSet': {
-            'train': '../input/train.txt',
-            'test': '../input/test.txt'
+            'train': '../input/absa-format/train.txt',
+            'test': '../input/absa-format/test.txt'
         },
         'restaurant': {
             'train': './datasets/semeval14/Restaurants_Train.xml.seg',
